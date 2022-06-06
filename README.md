@@ -1,6 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/670641/172169911-d9a7c453-c2ee-4bec-ac27-79e4631360ae.gif" width="2.5%" alt="Hello!"> Hello!
 
-I'm **Darius** and as an experienced **software engineer** I like to build and deploy scaled and *intelligent* applications.
+I'm **Darius** and as an experienced **software engineer** I like to build and deploy scaleable and *intelligent* applications.
 
 Links: [Website](https://www.darius.page/) • [LinkedIn](https://www.linkedin.com/in/dmorawiec) • [Xing](https://www.xing.com/profile/Darius_Morawiec) • [Twitter](twitter.com/darius_morawiec)
 
