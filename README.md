@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/670641/172169911-d9a7c453-c2ee-4bec-ac27-79e4631360ae.gif" width="2.5%" alt="Hello!"> Hello!
+## <img src="https://user-images.githubusercontent.com/670641/172169911-d9a7c453-c2ee-4bec-ac27-79e4631360ae.gif" height="20px" alt="Hello!"> Hello!
 
 I'm **Darius** and as an experienced **software engineer** I like to build, deploy and run scaleable machine learning services.
 
