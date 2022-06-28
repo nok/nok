@@ -1,6 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/670641/172169911-d9a7c453-c2ee-4bec-ac27-79e4631360ae.gif" height="20px" alt="Hello!"> Hello!
 
-I'm **Darius** and as an experienced **software engineer** I like to build, deploy and run scaleable machine learning services.
+I'm **Darius** and as an experienced **software engineer** I like to build, deploy and run scaleable services.
 
 Currently I live in [Hamburg](https://www.google.com/maps/place/Hamburg/@53.558572,9.9278215,10z/data=!3m1!4b1!4m5!3m4!1s0x47b161837e1813b9:0x4263df27bd63aa0!8m2!3d53.5510846!4d9.9936819), Germany.
 
