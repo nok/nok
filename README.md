@@ -2,6 +2,6 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y0STZND)
 
-I'm **Darius**, a software developer from Germany. In my free time I work on open-source, web, and tech projects for the good.
+I'm **Darius**, a software developer from Germany. In my free time I work on open-source, web and tech projects for the good.
 
 Links: [Website](https://www.darius.page/) • [LinkedIn](https://www.linkedin.com/in/dmorawiec) • [Xing](https://www.xing.com/profile/Darius_Morawiec)
