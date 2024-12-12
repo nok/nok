@@ -4,4 +4,4 @@
 
 Hi, I’m Darius, a software engineer and data scientist with 10+ years of experience in Big Data and Machine Learning.
 
-Always open to new challenges. Let’s connect on [LinkedIn](https://www.linkedin.com/in/dmorawiec/)!
+And I'm always open to new challenges. Let’s connect on [LinkedIn](https://www.linkedin.com/in/dmorawiec/)!
