@@ -5,3 +5,23 @@
 Hi, I’m Darius, a software engineer and data scientist with 10+ years of experience in Big Data and Machine Learning.
 
 And I'm always open to new challenges. Let’s connect on [LinkedIn](https://www.linkedin.com/in/dmorawiec/)!
+
+## Projects
+
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <p>
+          <a href="https://github.com/nok/pandas-render">
+            <img src="https://raw.githubusercontent.com/nok/pandas-render/refs/heads/main/assets/pandas-render.png" height="100px"/>
+          </a>
+        </p>
+        <p>pandas-render</p>
+        <p>
+          <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nok/pandas-render">
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
