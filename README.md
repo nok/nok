@@ -1,10 +1,6 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y0STZND)
+## Hello!
 
-## <img src="https://user-images.githubusercontent.com/670641/172169911-d9a7c453-c2ee-4bec-ac27-79e4631360ae.gif" height="20px" alt="Hello!"> Hello!
-
-Hi, I’m Darius, a software engineer and data scientist with 10+ years of experience in Big Data and Machine Learning.
-
-And I'm always open to new challenges. Let’s connect on [LinkedIn](https://www.linkedin.com/in/dmorawiec/)!
+Hello, I’m Darius, a software engineer and data scientist with 10+ years of experience in Big Data and Machine Learning.
 
 ## Projects
 
@@ -38,3 +34,14 @@ And I'm always open to new challenges. Let’s connect on [LinkedIn](https://www
     </td>
   </tr>
 </table>
+
+
+## Posts
+
+- 2024-09: [Promptable Object Detection & Knowledge Distillation for Scalable Applications](https://www.linkedin.com/posts/dmorawiec_speakeasy-activity-7238633887986249728-vJ2D?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcp6rEBfRLWlk9RYQ9kYWCNCAtyyeRcS6Y)
+- 2024-08: [Scaling Business Impact with Machine-Learning Image Solutions for Minister Habeck](https://www.linkedin.com/posts/dmorawiec_recently-our-federal-minister-for-economic-activity-7238626453871816704-1ErR?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcp6rEBfRLWlk9RYQ9kYWCNCAtyyeRcS6Y)
+
+
+## Contact
+
+And I'm always open to new challenges. Let’s connect on [LinkedIn](https://www.linkedin.com/in/dmorawiec/)!
