@@ -36,7 +36,7 @@ Hello, I’m Darius, a software engineer and data scientist with 10+ years of ex
 </table>
 
 
-## Talks and Presentations
+## Talks
 
 - 2024-09: [Promptable Object Detection & Knowledge Distillation for Scalable Applications](https://www.linkedin.com/posts/dmorawiec_speakeasy-activity-7238633887986249728-vJ2D?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcp6rEBfRLWlk9RYQ9kYWCNCAtyyeRcS6Y)
 - 2024-08: [Scaling Business Impact with Machine-Learning Image Solutions for Minister Habeck](https://www.linkedin.com/posts/dmorawiec_recently-our-federal-minister-for-economic-activity-7238626453871816704-1ErR?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcp6rEBfRLWlk9RYQ9kYWCNCAtyyeRcS6Y)
