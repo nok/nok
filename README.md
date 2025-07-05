@@ -10,7 +10,7 @@ Hello, I’m Darius, a software engineer and data scientist with 10+ years of ex
       <div align="center">
         <p>
           <a href="https://github.com/nok/pandas-render">
-            <img src="https://raw.githubusercontent.com/nok/pandas-render/refs/heads/main/assets/pandas-render.png" height="100px"/>
+            <img src="https://raw.githubusercontent.com/nok/pandas-render/refs/heads/main/assets/pandas-render.png" style="height: 100px;">
           </a>
         </p>
         <p>pandas-render</p>
@@ -23,7 +23,7 @@ Hello, I’m Darius, a software engineer and data scientist with 10+ years of ex
       <div align="center">
         <p>
           <a href="https://github.com/nok/pip-dev">
-            <img src="https://raw.githubusercontent.com/nok/pip-dev/refs/heads/main/assets/pip-dev-logo.png" height="100px"/>
+            <img src="https://raw.githubusercontent.com/nok/pip-dev/refs/heads/main/assets/pip-dev-logo.png"  style="height: 100px;">
           </a>
         </p>
         <p>pip-dev</p>
