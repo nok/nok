@@ -44,12 +44,15 @@ Hello, I’m Darius, a software engineer and data scientist with 10+ years of ex
 <table>
   <tr>
     <td>2025-09</td>
-    <td>LLMDet Arena</td>
+    <td><a href="https://huggingface.co/spaces/dmorawiec/LLMDet_Arena">LLMDet Arena</a></td>
+    <td colspan="2">Compare LLMDet models for object detection.</td>
     <td><a href="https://huggingface.co/spaces/dmorawiec/LLMDet_Arena"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg"></a></td>
   </tr>
   <tr>
     <td>2025-06</td>
-    <td><a href="https://www.linkedin.com/pulse/rf-detr-sahi-darius-morawiec-msste/">RF-DETR + SAHI</a></td>
+    <td><a href="https://huggingface.co/spaces/dmorawiec/RF-DETR_SAHI">RF-DETR + SAHI</a></td>
+    <td>Use RF-DETR models with SAHI.</td>
+    <td><a href="https://www.linkedin.com/pulse/rf-detr-sahi-darius-morawiec-msste/">Video</a></td>
     <td><a href="https://huggingface.co/spaces/dmorawiec/RF-DETR_SAHI"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg"></a></td>
   </tr>
 </table>
