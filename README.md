@@ -45,7 +45,8 @@ Hello, I’m Darius, a software engineer and data scientist with 10+ years of ex
   <tr>
     <td>2025-09</td>
     <td><a href="https://huggingface.co/spaces/dmorawiec/LLMDet_Arena">LLMDet Arena</a></td>
-    <td colspan="2">Compare LLMDet models for object detection.</td>
+    <td>Compare LLMDet models for object detection.</td>
+    <td>-</td>
     <td><a href="https://huggingface.co/spaces/dmorawiec/LLMDet_Arena"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg"></a></td>
   </tr>
   <tr>
